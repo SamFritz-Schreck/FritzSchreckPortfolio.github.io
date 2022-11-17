@@ -1,11 +1,14 @@
 title: Sam Fritz-Schreck # your name (or website title) here
 logo: /images/logo.png?raw=TRUE # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Student
-  M.S. Operations Research (Projected June 2024)
+  Student <br>
+  M.S. Operations Research <br>
+  (Projected June 2024) <br>
   Naval Postgraduate School
   <br><br>
-  Second description 
+  Thesis Advisor: <br>
+  Ruriko Yoshida <br>
+  Second Reader: <br>
   <br><br>
   
 theme: jekyll-theme-minimal
