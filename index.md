@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Example Coursework
 
-[Project 1 Title](/sample_page)
+[Computational Methods I (OA2801)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Personal Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -27,7 +27,7 @@
 
 ---
 
-
+### Thesis Material
 
 
 ---
