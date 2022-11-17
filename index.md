@@ -4,7 +4,7 @@
 
 ### Example Coursework
 
-[Computational Methods I (OA2801)](/sample_page)
+[Humanitarian Logistics (OA2801)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
