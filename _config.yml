@@ -2,7 +2,7 @@ title: Sam Fritz-Schreck # your name (or website title) here
 logo: /images/logo.png?raw=TRUE # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Student <br>
-  [M.S. Operations Research](https://nps.edu/web/or/operations-analysis-360) <br>
+  <a href="https://nps.edu/web/or/operations-analysis-360">M.S. Operations Research</a> <br>
   (Projected June 2024) <br>
   Naval Postgraduate School
   <br><br>
