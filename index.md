@@ -9,7 +9,7 @@
 
 ---
 
-[MotoGP Lap Chart (OA1600)](pdf/Lab2.xlsx)
+[MotoGP Lap Chart (OA1600)](Files/Lab2.xlsx)
 <img src="images/Lap Chart.jpg?raw=true"/>
 
 ---
