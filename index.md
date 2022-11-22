@@ -16,7 +16,8 @@
 
 ### Personal Projects
 
-- [Project 1 Title](http://example.com/)
+[Social Media Scraping]()
+<img src="images/jdthompson ego.png?raw=true'/>
 
 ---
 
