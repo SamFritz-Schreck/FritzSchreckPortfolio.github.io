@@ -16,7 +16,7 @@
 
 ### Personal Projects
 
-[Social Media Scraping]()
+[Social Media Scraping](/sample_page)
 <img src="images/jdthompson ego.png?raw=true'/>
 
 ---
