@@ -4,8 +4,8 @@
 
 ### Example Coursework
 
-[Humanitarian Logistics (OA2801)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Humanitarian Logistics (OA2801)](https://github.com/SamFritz-Schreck/OA2801/tree/main/Week9/5-airports)
+<img src="Files/humanitarianlogistics.html?raw=true"/>
 
 ---
 
