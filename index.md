@@ -5,7 +5,7 @@
 ### Example Coursework
 
 [Humanitarian Logistics (OA2801)](https://github.com/SamFritz-Schreck/OA2801/tree/main/Week9/5-airports)
-<iframe src="Files/humanitarianlogistics.html" width="100%" height="500" style="border:1px solid black;">  </iframe>
+<iframe src="Files/humanitarianlogistics.html">  </iframe>
 
 ---
 
