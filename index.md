@@ -4,7 +4,7 @@
 
 ### Example Coursework
 
-[Humanitarian Logistics (OA2801)](https://github.com/SamFritz-Schreck/OA2801/tree/main/Week9/5-airports)
+[Humanitarian Logistics (OA2801)](https://samfritz-schreck.github.io/OA2801Lab5/)
 <img src="images/HumanitarianLogistics.png?raw=true"/>
 
 ---
