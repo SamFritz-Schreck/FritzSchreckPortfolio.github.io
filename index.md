@@ -23,6 +23,9 @@
 
 ### Thesis Material
 
+Thesis Advisor: 
+<a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida</a>
+Second Reader: 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
