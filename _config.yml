@@ -10,7 +10,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida</a> <br>
   Second Reader: <br>
   <br><br>
-  Last updated: {% last_modified_at %}
+  {%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%}
+  {%- if page.last_modified_at -%}
+      Last updated: {%- page.last_modified_at | date: date_format -%}
+  {%- else -%}
+      Last updated: {%- page.date | date: date_format -%}
+  {%- endif -%}
   
 theme: jekyll-theme-minimal
 google_analytics: G-FB6ZCZ0R71
