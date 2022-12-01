@@ -3,7 +3,7 @@
 git_last_commit_date="$(git log -1 --format=%cd)"
 echo "Git last commit date: $git_last_commit_date"
 
-md_files="$(find . -type f -name "*.md")"
+html_files="$(find . -type f -name "*.html")"
 
 for file in $html_files; do 
   echo "Inserting date into: $file" 
