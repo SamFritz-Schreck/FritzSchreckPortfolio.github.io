@@ -24,7 +24,7 @@
 ### Thesis Material
 
 Thesis Advisor: 
-<a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida</a>
+<a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida</a> <br>
 Second Reader: 
 
 ---
