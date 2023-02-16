@@ -4,7 +4,19 @@
 
 ### Example Coursework
 
-[Humanitarian Logistics (OA2801)](OA2801.md)
+[Advanced Data Analysis (OA4106)]
+
+---
+
+[Cost Estimation (OA4702)]
+
+---
+
+[Computational Methods 2 (OA3801)]
+
+---
+
+[Computational Methods 1 (OA2801)](OA2801.md)
 <img src="images/humanitarianlogistics1.png?raw=true"/>
 
 ---
