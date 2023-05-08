@@ -20,7 +20,7 @@
 
 [Computational Methods 2 (OA3801)]
 
-<a href="https://github.com/SamFritz-Schreck/Portfolio/blob/master/Files/HAST-E%20Exec%20Summary.pdf">Capstone Project<a/>
+<a href="./Files/HAST-E Exec Summary.pdf">Capstone Project<a/>
 <img src="images/HAST-E.png?raw=true"/>
 
 ---
