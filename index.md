@@ -14,7 +14,7 @@
 
 [Data Analysis (OA3103)]
 
-<a href="https://github.com/SamFritz-Schreck/OA3103-Data-Analysis/blob/main/Homework/DAP1.pdf">Bike Rental Data Analysis Project<a/>- Model resulted in the lowest mean error amongst all models submitted in the Spring 2023 course offering.
+<a target='_blank' href="https://github.com/SamFritz-Schreck/OA3103-Data-Analysis/blob/main/Homework/DAP1.pdf">Bike Rental Data Analysis Project<a/>- Model resulted in the lowest mean error amongst all models submitted in the Spring 2023 course offering.
 
 ---
 
