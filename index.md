@@ -17,6 +17,12 @@
 <a target='_blank' href="./Files/DAP1.pdf">Bike Rental Data Analysis Project<a/>- Model resulted in the lowest mean error amongst all models submitted in the Spring 2023 course offering.
 
 ---
+  
+[Simulation-Modeling (OA3302)]
+  
+Final project investigated refueling wait times of two squadron profiles over 100 training days
+ 
+---
 
 [Computational Methods 2 (OA3801)]
 
