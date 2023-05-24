@@ -21,6 +21,7 @@
 [Simulation-Modeling (OA3302)]
   
 Final project investigated refueling wait times of two squadron profiles over 100 training days
+<img src= 'images/Final_Project_snip.png?raw=true'/>
  
 ---
 
