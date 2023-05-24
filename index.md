@@ -7,6 +7,7 @@
 Thesis Advisor: 
 <a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida</a> <br>
 Second Reader: 
+<a href="http://faculty.nps.edu/ross.schuchard/">Ross Schuchard</a> <br>
 
 ---
 
