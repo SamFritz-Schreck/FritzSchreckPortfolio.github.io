@@ -12,9 +12,11 @@ Second Reader:
 
 ### Professional Presentations
 
-15Jun23 - 91st MORS Symposium - Geographic Data Visualization via PCS Dashboard case study
+15 Jun 23 - 91st MORS Symposium - Geographic Data Visualization via PCS Dashboard case study
 
-8Mar23 - Computational Methods 2 - Housing Area Search Tool - Course capstone project
+8 Mar 23 - Computational Methods 2 - Housing Area Search Tool - Course capstone project
+
+21-25 Oct 19 - 96th Civil Affairs Battalion - Social Network Analysis for CA - Gephi orientation
 
 ### Example Coursework
 
