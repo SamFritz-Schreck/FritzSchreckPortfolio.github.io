@@ -20,7 +20,7 @@
   
 [Simulation-Modeling (OA3302)]
   
-Final project investigated refueling wait times of two squadrons over 100 training days
+Final project investigated refueling wait times of two squadrons over 100 training days (Simio based)
 <img src= 'images/Final_Project_snip.png?raw=true'/>
  
 ---
