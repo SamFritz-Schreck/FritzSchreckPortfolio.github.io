@@ -2,6 +2,20 @@
 
 ---
 
+### Thesis Material
+
+Thesis Advisor: 
+<a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida</a> <br>
+Second Reader: 
+
+---
+
+### Professional Presentations
+
+15Jun23 - 91st MORS Symposium - Geographic Data Visualization via PCS Dashboard case study
+
+8Mar23 - Computational Methods 2 - Housing Area Search Tool - Course capstone project
+
 ### Example Coursework
 
 [Advanced Data Analysis (OA4106)]
@@ -46,14 +60,6 @@ Final project investigated refueling wait times of two squadrons over 100 traini
 
 [Social Media Scraping](/sample_page)
 <img src="images/jdthompson ego.png?raw=true"/>
-
----
-
-### Thesis Material
-
-Thesis Advisor: 
-<a href="http://faculty.nps.edu/ryoshida/">Ruriko Yoshida</a> <br>
-Second Reader: 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
