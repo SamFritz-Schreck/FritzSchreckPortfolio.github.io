@@ -61,7 +61,7 @@ Final project investigated refueling wait times of two squadrons over 100 traini
 
 ### Personal Projects
 
-[Social Media Scraping](/sample_page)
+[Social Media Scraping]
 <img src="images/jdthompson ego.png?raw=true"/>
 
 ---
